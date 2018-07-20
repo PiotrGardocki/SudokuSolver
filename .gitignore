@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# other
+*.txt
+*.cbp
+*.depend
+*.layout
+*.sln
+*.vcxproj
+*.filters
+*.suo
+*.db
+*.ipch
+*.ilk
+*.log
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+main.cpp
