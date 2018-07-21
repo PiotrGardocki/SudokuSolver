@@ -24,6 +24,7 @@ Creates an empty sudoku board.
 
 
 ```c++ Sudoku::Sudoku(const std::string & filename)```
+
 Creates sudoku from file. Internally it calls Sudoku::readFromFile().
 
 
