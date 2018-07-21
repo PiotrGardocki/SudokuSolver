@@ -1,11 +1,11 @@
 # SudokuSolver
 
-'''c++
+'''cpp
 enum Sudoku::Type
 {
 	solved,
 	unsolved,
-error
+	error
 };
 '''
 
