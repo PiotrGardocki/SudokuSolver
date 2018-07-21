@@ -1,13 +1,14 @@
 # SudokuSolver
 
-,,,c++
+'''c++
 enum Sudoku::Type
 {
 	solved,
 	unsolved,
 error
 };
-,,,
+'''
+
 solved – means that Sudoku is solved
 unsolved – means that Sudoku is not solved (it has at least one empty field)
 error – means that Sudoku can’t be solved due to mistakes on board
